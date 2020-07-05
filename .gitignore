@@ -6,3 +6,5 @@
 .idea/modules.xml
 
 TicTacToe.iml
+
+*.xml
